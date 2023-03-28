@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= gif
+$$ 2019-04-09 22:05:07.440 +0200  gif@dumbo
+$$ /data_Gif/data/florian/nmr/Mcl1_13C15N_100uM_tctpBH3commercial_190408/35/pdata/1/outd
+$$ process /opt/topspin3.5pl6/prog/au/bin/iexpno
+##$CURPLOT= <¸½	ì½	ø½	>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=
