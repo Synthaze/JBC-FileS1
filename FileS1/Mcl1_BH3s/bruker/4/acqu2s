@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 202	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= gif
+$$ 2019-05-30 16:52:33.196 +0200  gif@dumbo
+$$ /data_Gif/data/florian/nmr/Mcl1_13C15N_100uM_MuleBH3_190528/13/acqu2s
+$$ process /opt/topspin3.5pl6/prog/mod/go4
+##$ACQT0= 0
+##$BF1= 96.227300137
+##$FnMODE= 5
+##$NUC1= <15N>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 200
+##$O1= 11210.4804659605
+##$ProjAngle= 0
+##$SFO1= 96.238510617466
+##$SW= 28.9923290949412
+##$SW_h= 2790.17857142857
+##$TD= 200
+##END=

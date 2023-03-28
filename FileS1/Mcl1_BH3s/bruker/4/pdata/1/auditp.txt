@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TopSpin 4.0.6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= synthase
+$$ /media/synthase/nmr_bruk/nmr_bruk/950_elmer/Mcl1_13C15N_100uM_MuleBH3_190528/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-05-30 16:52:34.303 +0200>,<gif>,<dumbo>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2019-05-30 16:36:48.057 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       2B F7 E5 01 A0 47 01 1C 58 3B DC 2D 99 3D C6 73
+       data hash MD5: 1512 * 200
+       6D 4D 1E B0 CE 54 61 47 E6 15 BB 98 B0 65 BA 04>)
+(   2,<2019-06-09 19:52:47.392 +0200>,<synthase>,<synthase-lap>,<proc2d>,<TopSpin 4.0.6>,
+      <Start of raw data processing
+       xfb F2: SI = 8K BC_mod = 4 WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 STSR = 1000 STSI = 3000 PHC0 = -166.025 PHC1 = 0 F1: SI = 1K WDW = 4 SSB = 2 FT_mod = 4 FCOR = 1 PHC0 = 90 PHC1 = -180
+       data hash MD5: 3K * 1K
+       DD 38 0C 87 2D F9 DA AB FF E9 0D 4E DE B8 93 51>)
+(   3,<2019-06-09 19:52:48.607 +0200>,<synthase>,<synthase-lap>,<proc2d>,<TopSpin 4.0.6>,
+      <abs2 F2: ABSG = 5 ABSF1 = 10.742 ABSF2 = 4.74684
+       data hash MD5: 3K * 1K
+       FD 7D 0F FE CE DD A0 17 0E 3D 2E AD A7 7C B1 71>)
+##END=
+
+$$ hash MD5
+$$ 1F 38 33 44 23 A3 C1 AF 13 8D 4F ED 78 EC 63 43

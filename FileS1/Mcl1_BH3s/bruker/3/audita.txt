@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= gif
+$$ /data_Gif/data/florian/nmr/Mcl1_13C15N_100uM_BH3D16I_190528/24/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-05-29 15:11:13.465 +0200>,<gif>,<dumbo>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2019-05-29 14:55:27.676 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       2B F7 E5 01 A0 47 01 1C 58 3B DC 2D 99 3D C6 73
+       data hash MD5: 1512 * 200
+       B0 D3 86 AA B9 00 68 7D F5 45 CB F3 90 D4 F5 46>)
+##END=
+
+$$ hash MD5
+$$ F1 C2 F2 DA C2 60 A0 C9 91 47 CC D1 6B CF 9A 93
