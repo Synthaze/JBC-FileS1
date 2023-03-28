@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit release="2.1.2" originator="CCPN Python XmlIO" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00038" time="Sat Sep  3 09:32:43 2022">
+
+<INST.InstrumentStore _ID="_1" createdBy="synthase" guid="Mcl1_BH3s_synthase_2022-09-03-09-30-12-618_00001">
+  <INST.InstrumentStore.name>
+    <IMPL.Line>Mcl1_BH3s</IMPL.Line>
+  </INST.InstrumentStore.name>
+</INST.InstrumentStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

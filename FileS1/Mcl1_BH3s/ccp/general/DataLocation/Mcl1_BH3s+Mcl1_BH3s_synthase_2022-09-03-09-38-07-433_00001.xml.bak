@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit release="2.1.2" originator="CCPN Python XmlIO" packageGuid="www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00001" time="Thu Oct  6 16:18:29 2022">
+
+<DLOC.DataLocationStore _ID="_1" createdBy="synthase" guid="Mcl1_BH3s_synthase_2022-09-03-09-38-07-433_00001">
+  <DLOC.DataLocationStore.name>
+    <IMPL.Line>Mcl1_BH3s</IMPL.Line>
+  </DLOC.DataLocationStore.name>
+  <DLOC.DataLocationStore.dataStores>
+    <DLOC.BlockedBinaryMatrix _ID="_2" fileType="Bruker" isBigEndian="false" numberType="int" serial="1">
+      <DLOC.BlockedBinaryMatrix.blockSizes> 3072 1024</DLOC.BlockedBinaryMatrix.blockSizes>
+      <DLOC.NumericMatrix.isComplex> false false</DLOC.NumericMatrix.isComplex>
+      <DLOC.NumericMatrix.numPoints> 3072 1024</DLOC.NumericMatrix.numPoints>
+      <DLOC.AbstractDataStore.path>
+        <IMPL.PathString>bruker/1/pdata/1/2rr</IMPL.PathString>
+      </DLOC.AbstractDataStore.path>
+    </DLOC.BlockedBinaryMatrix>
+    <DLOC.BlockedBinaryMatrix _ID="_3" fileType="Bruker" isBigEndian="false" numberType="int" serial="2">
+      <DLOC.BlockedBinaryMatrix.blockSizes> 3072 1024</DLOC.BlockedBinaryMatrix.blockSizes>
+      <DLOC.NumericMatrix.isComplex> false false</DLOC.NumericMatrix.isComplex>
+      <DLOC.NumericMatrix.numPoints> 3072 1024</DLOC.NumericMatrix.numPoints>
+      <DLOC.AbstractDataStore.path>
+        <IMPL.PathString>bruker/2/pdata/1/2rr</IMPL.PathString>
+      </DLOC.AbstractDataStore.path>
+    </DLOC.BlockedBinaryMatrix>
+    <DLOC.BlockedBinaryMatrix _ID="_4" fileType="Bruker" isBigEndian="false" numberType="int" serial="3">
+      <DLOC.BlockedBinaryMatrix.blockSizes> 3072 1024</DLOC.BlockedBinaryMatrix.blockSizes>
+      <DLOC.NumericMatrix.isComplex> false false</DLOC.NumericMatrix.isComplex>
+      <DLOC.NumericMatrix.numPoints> 3072 1024</DLOC.NumericMatrix.numPoints>
+      <DLOC.AbstractDataStore.path>
+        <IMPL.PathString>bruker/3/pdata/1/2rr</IMPL.PathString>
+      </DLOC.AbstractDataStore.path>
+    </DLOC.BlockedBinaryMatrix>
+    <DLOC.BlockedBinaryMatrix _ID="_5" fileType="Bruker" isBigEndian="false" numberType="int" serial="4">
+      <DLOC.BlockedBinaryMatrix.blockSizes> 3072 1024</DLOC.BlockedBinaryMatrix.blockSizes>
+      <DLOC.NumericMatrix.isComplex> false false</DLOC.NumericMatrix.isComplex>
+      <DLOC.NumericMatrix.numPoints> 3072 1024</DLOC.NumericMatrix.numPoints>
+      <DLOC.AbstractDataStore.path>
+        <IMPL.PathString>bruker/4/pdata/1/2rr</IMPL.PathString>
+      </DLOC.AbstractDataStore.path>
+    </DLOC.BlockedBinaryMatrix>
+  </DLOC.DataLocationStore.dataStores>
+  <DLOC.DataLocationStore.dataUrls>
+    <DLOC.DataUrl _ID="_6" serial="1">
+      <DLOC.DataUrl.name>
+        <IMPL.Line>auto-1</IMPL.Line>
+      </DLOC.DataUrl.name>
+      <DLOC.DataUrl.dataStores> _4 _5 _3 _2</DLOC.DataUrl.dataStores>
+      <DLOC.DataUrl.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/media/synthase/PhD/ccp/Mcl1_BH3s</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </DLOC.DataUrl.url>
+    </DLOC.DataUrl>
+  </DLOC.DataLocationStore.dataUrls>
+</DLOC.DataLocationStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

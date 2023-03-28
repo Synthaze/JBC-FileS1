@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit release="2.1.2" originator="CCPN Python XmlIO" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-17-14:16:23_00004" time="Sat Sep  3 10:45:06 2022">
+
+<NMAP.NameMappingStore _ID="_1" createdBy="synthase" guid="Mcl1_BH3s_synthase_2022-09-03-09-49-32-483_00001">
+  <NMAP.NameMappingStore.name>
+    <IMPL.Line>Mcl1_BH3s</IMPL.Line>
+  </NMAP.NameMappingStore.name>
+  <NMAP.NameMappingStore.nameMappings>
+    <NMAP.NameMapping _ID="_2" isOriginalImport="true" serial="1">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_3" formatFirstSeqCode="170" formatLastSeqCode="326" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_4" isOriginalImport="true" serial="2">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_5" formatFirstSeqCode="172" formatLastSeqCode="230" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_6" isOriginalImport="true" serial="3">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_7" formatFirstSeqCode="172" formatLastSeqCode="326" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_8" isOriginalImport="true" serial="4">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_9" formatFirstSeqCode="171" formatLastSeqCode="326" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_10" isOriginalImport="true" serial="5">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_11" formatFirstSeqCode="171" formatLastSeqCode="326" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_12" isOriginalImport="true" serial="6">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_13" formatFirstSeqCode="171" formatLastSeqCode="326" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+    <NMAP.NameMapping _ID="_14" isOriginalImport="true" serial="7">
+      <NMAP.NameMapping.formatName>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </NMAP.NameMapping.formatName>
+      <NMAP.NameMapping.namingSystem>
+        <IMPL.Line>PDB</IMPL.Line>
+      </NMAP.NameMapping.namingSystem>
+      <NMAP.NameMapping.chainMappings>
+        <NMAP.ChainMapping _ID="_15" formatFirstSeqCode="171" formatLastSeqCode="171" serial="1">
+          <NMAP.ChainMapping.chainCode>
+            <IMPL.Line>A</IMPL.Line>
+          </NMAP.ChainMapping.chainCode>
+          <NMAP.ChainMapping.formatChainCode>
+            <IMPL.Line> </IMPL.Line>
+          </NMAP.ChainMapping.formatChainCode>
+        </NMAP.ChainMapping>
+      </NMAP.NameMapping.chainMappings>
+    </NMAP.NameMapping>
+  </NMAP.NameMappingStore.nameMappings>
+</NMAP.NameMappingStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

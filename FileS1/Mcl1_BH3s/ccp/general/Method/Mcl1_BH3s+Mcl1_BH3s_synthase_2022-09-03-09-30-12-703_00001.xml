@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit release="2.1.2" originator="CCPN Python XmlIO" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00027" time="Sat Sep  3 22:00:38 2022">
+
+<METH.MethodStore _ID="_1" createdBy="synthase" guid="Mcl1_BH3s_synthase_2022-09-03-09-30-12-703_00001">
+  <METH.MethodStore.name>
+    <IMPL.Line>Mcl1_BH3s</IMPL.Line>
+  </METH.MethodStore.name>
+  <METH.MethodStore.methods>
+    <METH.Method _ID="_2" serial="1">
+      <METH.Method.procedure>
+        <IMPL.String>peak.cPeak.getIntensity</IMPL.String>
+      </METH.Method.procedure>
+    </METH.Method>
+    <METH.Method _ID="_3" serial="2">
+      <METH.Method.procedure>
+        <IMPL.String>peak.cPeak.fitVolume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.parameters>
+        <METH.Parameter _ID="_4" serial="1">
+          <METH.Parameter.name>
+            <IMPL.Line>method</IMPL.Line>
+          </METH.Parameter.name>
+          <METH.Parameter.value>
+            <IMPL.Text>box sum</IMPL.Text>
+          </METH.Parameter.value>
+        </METH.Parameter>
+      </METH.Method.parameters>
+    </METH.Method>
+    <METH.Method _ID="_5" serial="3">
+      <METH.Method.procedure>
+        <IMPL.String>parabolic peak fit</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.parameters>
+        <METH.Parameter _ID="_6" serial="1">
+          <METH.Parameter.name>
+            <IMPL.Line>method</IMPL.Line>
+          </METH.Parameter.name>
+          <METH.Parameter.value>
+            <IMPL.Text>parabolic</IMPL.Text>
+          </METH.Parameter.value>
+        </METH.Parameter>
+      </METH.Method.parameters>
+    </METH.Method>
+    <METH.Method _ID="_7" serial="4">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_8" serial="5">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_9" serial="6">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_10" serial="7">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_11" serial="8">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_12" serial="9">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_13" serial="10">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_14" serial="11">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_15" serial="12">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_16" serial="13">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_17" serial="14">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_18" serial="15">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_19" serial="16">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_20" serial="17">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_21" serial="18">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_22" serial="19">
+      <METH.Method.procedure>
+        <IMPL.String>Denk integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_23" serial="20">
+      <METH.Method.procedure>
+        <IMPL.String>Rectangular integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_24" serial="21">
+      <METH.Method.procedure>
+        <IMPL.String>Elliptical integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_25" serial="22">
+      <METH.Method.procedure>
+        <IMPL.String>Maximum integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_26" serial="23">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_27" serial="24">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_28" serial="25">
+      <METH.Method.procedure>
+        <IMPL.String>Volume (Lorentzian)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_29" serial="26">
+      <METH.Method.procedure>
+        <IMPL.String>Volume (Gaussian)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_30" serial="27">
+      <METH.Method.procedure>
+        <IMPL.String>Volume (Sum over box)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_31" serial="28">
+      <METH.Method.procedure>
+        <IMPL.String>Volume (Sum over ellipse)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_32" serial="29">
+      <METH.Method.procedure>
+        <IMPL.String>Volume (Unknown method)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_33" serial="30">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity (data)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_34" serial="31">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity (fitted)</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_35" serial="32">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_36" serial="33">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_37" serial="34">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_38" serial="35">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_39" serial="36">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_40" serial="37">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_41" serial="38">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_42" serial="39">
+      <METH.Method.procedure>
+        <IMPL.String>Denk integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_43" serial="40">
+      <METH.Method.procedure>
+        <IMPL.String>Rectangular integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_44" serial="41">
+      <METH.Method.procedure>
+        <IMPL.String>Elliptical integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_45" serial="42">
+      <METH.Method.procedure>
+        <IMPL.String>Maximum integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_46" serial="43">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic integration</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_47" serial="44">
+      <METH.Method.procedure>
+        <IMPL.String>Automatic and manual</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak picking</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_48" serial="45">
+      <METH.Method.procedure>
+        <IMPL.String>Volume</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+    <METH.Method _ID="_49" serial="46">
+      <METH.Method.procedure>
+        <IMPL.String>Intensity</IMPL.String>
+      </METH.Method.procedure>
+      <METH.Method.task>
+        <IMPL.Line>Peak integration</IMPL.Line>
+      </METH.Method.task>
+    </METH.Method>
+  </METH.MethodStore.methods>
+  <METH.MethodStore.software>
+    <METH.Software _ID="_50">
+      <METH.Software.details>
+        <IMPL.String>The CCPN NMR assignment and data analysis application</IMPL.String>
+      </METH.Software.details>
+      <METH.Software.name>
+        <IMPL.Line>CcpNmr Analysis</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.vendorAddress>
+        <IMPL.Text>Department of Biochemistry, Cambridge CB2 1GA, UK</IMPL.Text>
+      </METH.Software.vendorAddress>
+      <METH.Software.vendorName>
+        <IMPL.Text>CCPN</IMPL.Text>
+      </METH.Software.vendorName>
+      <METH.Software.vendorWebAddress>
+        <IMPL.String>http://www.ccpn.ac.uk</IMPL.String>
+      </METH.Software.vendorWebAddress>
+      <METH.Software.version>
+        <IMPL.Line>2.5</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _5 _2 _3</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_51">
+      <METH.Software.name>
+        <IMPL.Line>ansig</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _19 _20</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_52">
+      <METH.Software.name>
+        <IMPL.Line>auremol</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+        <IMPL.Line>Structure calculation</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _7 _8 _9</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_53">
+      <METH.Software.name>
+        <IMPL.Line>azara</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+    </METH.Software>
+    <METH.Software _ID="_54">
+      <METH.Software.name>
+        <IMPL.Line>ccpNmr</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _17 _16 _18</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_55">
+      <METH.Software.name>
+        <IMPL.Line>cyana</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _41 _42 _43 _44 _45 _46</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_56">
+      <METH.Software.name>
+        <IMPL.Line>felix</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum processing</IMPL.Line>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _11 _12 _10</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_57">
+      <METH.Software.name>
+        <IMPL.Line>nmrDraw</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _13 _14 _15</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_58">
+      <METH.Software.name>
+        <IMPL.Line>nmrPipe</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum processing</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+    </METH.Software>
+    <METH.Software _ID="_59">
+      <METH.Software.name>
+        <IMPL.Line>nmrView</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _48 _47 _49</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_60">
+      <METH.Software.name>
+        <IMPL.Line>pipp</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _35 _36</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_61">
+      <METH.Software.name>
+        <IMPL.Line>pronto</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _37 _38</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_62">
+      <METH.Software.name>
+        <IMPL.Line>sparky</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _31 _32 _33 _34 _27 _28 _29 _30</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_63">
+      <METH.Software.name>
+        <IMPL.Line>unknown</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _39 _40</METH.Software.methods>
+    </METH.Software>
+    <METH.Software _ID="_64">
+      <METH.Software.name>
+        <IMPL.Line>xeasy</IMPL.Line>
+      </METH.Software.name>
+      <METH.Software.tasks>
+        <IMPL.Line>Spectrum display</IMPL.Line>
+        <IMPL.Line>Spectrum analysis</IMPL.Line>
+      </METH.Software.tasks>
+      <METH.Software.version>
+        <IMPL.Line>any</IMPL.Line>
+      </METH.Software.version>
+      <METH.Software.methods> _23 _24 _25 _26 _21 _22</METH.Software.methods>
+    </METH.Software>
+  </METH.MethodStore.software>
+</METH.MethodStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->
